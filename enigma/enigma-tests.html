@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Enigma Unit Tests</title>
+ 
+  <link rel="stylesheet" href="qunit/qunit-1.17.1.css">
+  <script src="qunit/qunit-1.17.1.js"></script>
+  <script src="enigma.js"></script>
+ 
+  <script>
+
+  QUnit.test("ENIGMA behavior", function( assert ) {
+	var enigma = new Enigma();
+    assert.equal(enigma.encrypt("abcdefghijklmnopqrstuvwxyz '.,:;"), "jdwovarig xunsyqcp'fmztkhbel.,:;", "Encrypt each letter");
+    assert.equal(enigma.decrypt("jdwovarig xunsyqcp'fmztkhbel.,:;"), "abcdefghijklmnopqrstuvwxyz '.,:;", "Decrypt each letter");
+  });
+  </script>
+</head>
+<body>
+ 
+	<div id="qunit-fixture"></div>
+	<div id="qunit"></div>
+ 
+</body>
+</html>
