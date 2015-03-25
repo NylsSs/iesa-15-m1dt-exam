@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planet>
+	<name>Mercure</name>
+	<size>2439 km</size>
+	<distance>entre 0,3075 et 0,4667 UA</distance>
+	<description>Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire1. Son éloignement au Soleil est compris entre 0,3075 et 0,4667 UA, ce qui correspond à une excentricité orbitale de 0,2056 — plus de douze fois supérieure à celle de la Terre, et de loin la plus élevée pour une planète du système solaire. Elle est visible à l'œil nu depuis la Terre avec un diamètre apparent de 4,5 à 13 secondes d'arc, et une magnitude apparente de 5,7 à -2,3 ; son observation est toutefois rendue difficile par son élongation toujours inférieure à 28,3° qui la noie le plus souvent dans l'éclat du Soleil.
+
+	Mercure a la particularité d'être en résonance 3:2 sur son orbite, sa période de révolution (87,969 jours) valant exactement 1,5 fois sa période de rotation (58,646 jours), et donc la moitié d'un jour solaire (175,938 jours). L'inclinaison de l'axe de rotation de Mercure sur son plan orbital est la plus faible du système solaire, à peine 2 minutes d'arc. Son périhélie connaît une précession autour du Soleil plus rapide que celle prédite par la mécanique newtonienne, une avance de 42,98 secondes d'arc par siècle2 qui n'a pu être complètement expliquée que dans le cadre de la relativité générale3.
+
+	Mercure est une planète tellurique, comme le sont également Vénus, la Terre et Mars. Elle est près de trois fois plus petite et presque vingt fois moins massive que la Terre mais presque aussi dense qu'elle, avec une gravité de surface pratiquement égale à celle de Mars, qui est pourtant près de deux fois plus massive. Sa densité remarquable — dépassée seulement par celle de la Terre, qui lui serait d'ailleurs inférieure sans l'effet de la compression gravitationnelle — est due à l'importance de son noyau métallique, qui occuperait plus de 40 % de son volume, contre seulement 17 % pour la Terre.
+	</description>
+	<image>http://t3.gstatic.com/images?q=tbn:ANd9GcRe8lDcIm-p-48dju34K5EiIN78Zx_mCBvWobxYo4ujfgChwyQyvLBl1m4W</image>
+</planet>
